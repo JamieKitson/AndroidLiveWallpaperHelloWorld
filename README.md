@@ -5,7 +5,7 @@ Android Live Wallpaper Hello World
 
 A "Hello World" app that can be referened when creating a live wallpaper application for Android.
 
-This app is just a barebones version of Roman Nurki's [Muzei][1] that cycles between a few images included in the APK. Do check out Muzei if you want something more advanced.
+This app is just a barebones version of Roman Nurik's [Muzei][1] that cycles between a few images included in the APK. Do check out Muzei if you want something more advanced.
 
 
 License
